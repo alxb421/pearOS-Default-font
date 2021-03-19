@@ -1,38 +1,21 @@
-FONTLOG for the Sen fonts
+# pearOS Default UI font
+It is based on Sen Font (original repo philatype/Sen)
+It looks nice, so _fork it_ what can I say xD
+<details>
+  <summary>spoiler</summary>
+  Because I cannot use Apple's SFUI Pro Display due to Apple's license
+</details>
 
-This file provides detailed information on the Sen Font Software.
-This information should be distributed along with the Sen fonts
-and any derivative works.
 
-
-Basic Font Information
-
+## Basic Font Information
 Sen is a Unicode typeface family that supports all languages that
 use the Latin script and its variants, and could be expanded to support other
 scripts.
 
 
-Designer Information
-
+## Designer Information
 Sen was designed by Kosal Sen, Philatype.
-
 Website: https://philatype.com
-
 E-mail: holla@philatype.com
-
 Twitter: @philatype
 
-
-ChangeLog
-
-16 Jun 2015 (Kosal Sen, Philatype) 
-v1.0 - Released
-
-25 Jun 2015 (Kosal Sen, Philatype) 
-v1.001 - Fixed stem weights for improved rendering in Windows.
-
-08 Jul 2015 (Kosal Sen, Philatype) 
-v1.002 - Fixed Polish quotation marks, exclamdown, and anchor incompatibility in masters.
-
-14 Jul 2015 (Kosal Sen, Philatype) 
-v1.003 - Improved construction of e, g, c, G, Z, k, R, and a few other characters.
